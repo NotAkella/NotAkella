@@ -2,6 +2,13 @@
 
 **NotAkella/NotAkella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi
+
+Finished GCSEs - going to learn Maths, FM, Econ, Physics
+Learning about tech in free time
+Keen on studying finance and/or engineering at uni
+Hoping to get a good job (preferably in banking or with autombiles), start a business, give back to the community, and live a happy life :D
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
