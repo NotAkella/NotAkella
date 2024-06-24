@@ -2,6 +2,8 @@
 
 **NotAkella/NotAkella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![https://www.google.com/search?sca_esv=5cd974b4dba8bebc&sca_upv=1&q=banner+image&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jo6Ttnu6iRjjgGjARfLolnBoLZZFBaghikH-Cd5D8-jDs501extcuvUVyoffiQ5rDquYr5BB7fR0vUbcc6HOfIRKuWHSQvCOjvp32EkHZihOwx56bjsiTSDWMF6Ho8RrtRGaZWI&sa=X&sqi=2&ved=2ahUKEwj4jJ_cqPSGAxX_XUEAHfe1CTQQtKgLegQIFBAB&biw=1536&bih=730&dpr=1.25#imgrc=ooDweVFh7SfvvM&imgdii=g67snIt_jvRruM]
+
 Hi
 
 * Finished GCSEs - going to learn Maths, FM, Econ, Physics
