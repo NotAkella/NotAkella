@@ -2,7 +2,7 @@
 
 **NotAkella/NotAkella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-!(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/75612331/original/c03f3a0abd7efa2be8557b98a392d49e5c63ec71/make-video-vaporwave-intros.jpg)
+!(https://www.phdmedia.com/united-kingdom/wp-content/uploads/sites/25/2017/06/Banner-2.gif)
 
 Hi
 
